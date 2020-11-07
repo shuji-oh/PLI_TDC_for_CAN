@@ -1,4 +1,4 @@
-Divider: Delay-Time Based Sender Identification in Automotive Networks
+PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter
 ====
 
 ## Overview
