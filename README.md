@@ -16,43 +16,7 @@ PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-
 }
 ```
 
-## Directory Structure
-
-PLI_TDC_for_CAN  
-┣━ hardware  
-┃   ┣━ c5 (for Cyclone 5)  
-┃   ┃	┣━ main.v  
-┃   ┃	┣━ fifo.v  
-┃   ┃	┣━ spi.v  
-┃   ┃	┣━ out_hex.v  
-┃   ┃	┣━ measure_time.v  
-┃   ┃	┣━ adder.v  
-┃	┃   ┗━ tapped_delay_tdc.v  
-┃	┗━ c3 (for Cyclone 3)  
-┃   	┣━ main.v  
-┃   	┣━ fifo.v  
-┃   	┣━ spi.v  
-┃   	┣━ out_hex.v  
-┃   	┣━ measure_time.v  
-┃   	┣━ adder.v  
-┃	    ┗━ tapped_delay_tdc.v  
-┣━ machine_learning  
-┃	┣━ prototype  
-┃   ┃   ┣━ rf.py  
-┃   ┃   ┣━ grid_search_rf.py  
-┃   ┃   ┣━ raw2delay.py  
-┃   ┃   ┣━ gen_LearningData.sh  
-┃	┃   ┗━ delay_time.py  
-┃	┗━ real-vehicle  
-┃       ┣━ rf.py  
-┃       ┣━ grid_search_rf.py  
-┃       ┣━ raw2delay.py  
-┃       ┣━ gen_LearningData.sh  
-┃	    ┗━ delay_time.csv  
-┗━ recv_script  
-	┣━ build.sh  
-    ┣━ tdc_recv.c  
-	┗━ temp_read.c  
+## Description
 
 ## Requirement
 
