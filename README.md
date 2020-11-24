@@ -44,7 +44,12 @@ $ python3 rf.py
 
 At first, please install and run the Quartus Prime on your workstation. Besides, please set up the conectivity from hardware (FPGA) and your workstation in advance. And, after downloading this repository, please perform the following procedures in the Quartus app.  
 
-[File menu] ⇒ [Open Project...] ⇒ [Select PLI_TDC_for_CAN/hardware/intel_cyclone_5/PLI_TDC.qpf] ⇒ [Start Compilation] ⇒ [Programmer] ⇒ [Start button in the Programmer Window]
+### Compile  
+[File menu] ⇒ [Open Project...] ⇒ [Select PLI_TDC_for_CAN/hardware/intel_cyclone_5/PLI_TDC.qpf] ⇒ [Start Compilation]  
+
+### Configure
+After above compilation, please transmit the circuit information to the FPGA.
+[Programmer] ⇒ [Start button in the Programmer Window]
 
 ## Author
 
