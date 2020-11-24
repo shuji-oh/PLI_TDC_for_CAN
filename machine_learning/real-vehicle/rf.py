@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
 import seaborn as sns
