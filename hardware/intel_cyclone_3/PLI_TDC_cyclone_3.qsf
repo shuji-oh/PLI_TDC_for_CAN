@@ -38,7 +38,7 @@
 
 set_global_assignment -name FAMILY "Cyclone III"
 set_global_assignment -name DEVICE EP3C16F484C6
-set_global_assignment -name TOP_LEVEL_ENTITY tdc_CV3
+set_global_assignment -name TOP_LEVEL_ENTITY PLI_TDC_cyclone_3
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION "13.0 SP1"
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:22:55  12月 05, 2019"
 set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"

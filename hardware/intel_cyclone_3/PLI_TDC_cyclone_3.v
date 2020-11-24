@@ -1,4 +1,4 @@
-module ex_divider (
+module PLI_TDC_cyclone_3 (
 	output [33:0] out_data,
 	input CLK,
     input RST,

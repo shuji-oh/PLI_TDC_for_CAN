@@ -1,4 +1,4 @@
-module tdc_CV3 (
+module PLI_TDC (
 	output [33:0] out_data,
 	input CLK,
     input RST,
