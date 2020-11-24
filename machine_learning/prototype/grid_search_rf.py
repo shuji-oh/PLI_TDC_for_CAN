@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from sklearn import datasets
 import numpy as np
 import seaborn as sns
 from sklearn.model_selection import train_test_split
@@ -9,9 +8,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 import pandas as pd
 import matplotlib.pyplot as plt
-from mlxtend.plotting import plot_decision_regions
 from matplotlib.backends.backend_pdf import PdfPages
-from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import StratifiedKFold
 from sklearn.ensemble import RandomForestClassifier
 
