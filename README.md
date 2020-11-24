@@ -51,7 +51,7 @@ $ ./tdc_recv --speed 4000000
 
 ## How to compile and configure the verilog HDL programs
 
-At first, please install and run the Quartus Prime on your workstation. Besides, please set up the conectivity from hardware (FPGA) and your workstation in advance. And, after downloading this repository, please perform the following procedures in the Quartus app.  
+At first, please install and run the Quartus Prime on your workstation. Besides, please set up the connectivity from hardware (FPGA) and your workstation in advance. And, after downloading this repository, please perform the following procedures in the Quartus app.  
 
 ### Compile  
 [File menu] ⇒ [Open Project...] ⇒ [Select `PLI_TDC_for_CAN/hardware/intel_cyclone_5/PLI_TDC.qpf`] ⇒ [Start Compilation]  
