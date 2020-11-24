@@ -48,7 +48,7 @@ At first, please install and run the Quartus Prime on your workstation. Besides,
 [File menu] ⇒ [Open Project...] ⇒ [Select PLI_TDC_for_CAN/hardware/intel_cyclone_5/PLI_TDC.qpf] ⇒ [Start Compilation]  
 
 ### Configure
-After above compilation, please transmit the circuit information to the FPGA.
+After above compilation, please transmit the circuit information to the FPGA.  
 [Programmer] ⇒ [Start button in the Programmer Window]
 
 ## Author
