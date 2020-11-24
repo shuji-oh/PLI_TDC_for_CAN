@@ -26,8 +26,8 @@ Quartus Prime (v17.0.0 Lite Edition)
 
 ## Usage (machine learning)
 
-$ git clone https://github.com/shuji-oh/PLI_TDC_for_CAN
-$ pip3 install -r requirements.txt
+$ git clone https://github.com/shuji-oh/PLI_TDC_for_CAN  
+$ pip3 install -r requirements.txt  
 $ cd machine_learning/prototype  
 $ python3 rf.py  
 
