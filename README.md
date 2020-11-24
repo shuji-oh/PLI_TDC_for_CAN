@@ -40,6 +40,15 @@ $ cd machine_learning/prototype
 $ python3 rf.py  
 ```
 
+## Usage (SPI receiver)
+
+```
+$ git clone https://github.com/shuji-oh/PLI_TDC_for_CAN  
+$ cd PLI_TDC_for_CAN/recv_script  
+$ ./build.sh  
+$ ./tdc_recv --speed 4000000  
+```
+
 ## How to compile and configure the verilog HDL programs
 
 At first, please install and run the Quartus Prime on your workstation. Besides, please set up the conectivity from hardware (FPGA) and your workstation in advance. And, after downloading this repository, please perform the following procedures in the Quartus app.  
