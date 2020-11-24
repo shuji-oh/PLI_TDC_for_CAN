@@ -16,6 +16,8 @@ PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-
 
 ## Introduction
 
+This repository publishes the source code of the sender identification method based on delay-time using Time-to-Digital Converter for automotive network security. You will be able to find the detailed theory and design in our paper after the ASIACCS'21 conference (June 7-11, 2021).  
+
 The code consists of three parts:  
 
 1. Hardware source programs written by Verilog HDL for intel FPGA cyclone III and V.  
