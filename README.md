@@ -43,7 +43,7 @@ $ python3 rf.py
 ```
 
 ## Usage (SPI receiver)
-Our method employs the temperature characteristic as one of the features to be robust the temperature concept drift. So, please set up the raspberry pi model B or B+ and DS18B20 temperature sensor based on [some article](https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/). After the setting, you can build and execute the SPI receiver program on your raspberry pi.
+Our method employs the temperature characteristic as one of the features to be robust in the temperature concept drift. So, please set up the raspberry pi model B or B+ and DS18B20 temperature sensor based on [some articles](https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/). After the setting, you can build and execute the SPI receiver program on your raspberry pi.
 
 ```
 $ git clone https://github.com/shuji-oh/PLI_TDC_for_CAN  
