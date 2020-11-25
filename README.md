@@ -32,6 +32,15 @@ The code consists of three parts:
 
 Quartus Prime (v17.0.0 Lite Edition)  
 
+## Setup
+
+### Required Hardware  
+
+* Intel Cyclone V or III FPGA  
+* Raspberry Pi Model B or B+  
+* temperature sensor (DS18B20)  
+* CAN transciever (mcp2515)  
+
 ## Usage (machine learning)
 
 ```
