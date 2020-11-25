@@ -32,9 +32,7 @@ The code consists of three parts:
 
 Quartus Prime (v17.0.0 Lite Edition)  
 
-## Setup
-
-### Required Hardware  
+## Required Hardware  
 
 * Intel Cyclone V or III FPGA  
 * Raspberry Pi Model B or B+  
