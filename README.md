@@ -37,7 +37,10 @@ Quartus Prime (v17.0.0 Lite Edition)
 * Intel Cyclone V or III FPGA  
 * Raspberry Pi Model B or B+  
 * temperature sensor (DS18B20)  
-* CAN transciever (mcp2515)  
+* CAN transciever (mcp2551)  
+
+
+![wiring](https://user-images.githubusercontent.com/27995559/100208862-87f60780-2f4c-11eb-85bd-4a7d4bf1d2eb.png)
 
 ## Usage (machine learning)
 
