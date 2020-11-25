@@ -39,6 +39,7 @@ Quartus Prime (v17.0.0 Lite Edition)
 * temperature sensor (DS18B20)  
 * CAN transciever (mcp2551)  
 
+According to the our Quartus Prime Settings File ([`PLI_TDC_for_CAN/hardware/intel_cyclone_5/PLI_TDC.qsf`](https://github.com/shuji-oh/PLI_TDC_for_CAN/blob/master/hardware/intel_cyclone_5/PLI_TDC.qsf)), you can set up the wiring as the following figure.
 <img src="https://user-images.githubusercontent.com/27995559/100208862-87f60780-2f4c-11eb-85bd-4a7d4bf1d2eb.png" width="600px">
 
 ## Usage (machine learning)
