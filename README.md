@@ -20,7 +20,7 @@ This repository publishes the source code of the sender identification method ba
 
 The code consists of three parts:  
 
-1. Hardware source programs written by Verilog HDL for intel FPGA cyclone III and V.  
+1. Hardware source programs written by Verilog HDL for intel DE0-CV Cyclone V FPGA.  
 2. Machine learning scripts implemented by Python 3 and the Proof-of-Concept data.  
 3. SPI receiver programs implemented by C for receiving the raw delay-time data.  
 
@@ -34,7 +34,7 @@ Quartus Prime (v17.0.0 Lite Edition)
 
 ## Required Hardware  
 
-* Intel Cyclone V or III FPGA  
+* Intel DE0-CV Cyclone V Board  
 * Raspberry Pi Model B or B+  
 * temperature sensor (DS18B20)  
 * CAN transciever (mcp2551)  
