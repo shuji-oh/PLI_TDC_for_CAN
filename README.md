@@ -43,6 +43,8 @@ According to the our Quartus Prime Settings File ([`PLI_TDC_for_CAN/hardware/int
 
 <img src="https://user-images.githubusercontent.com/27995559/100208862-87f60780-2f4c-11eb-85bd-4a7d4bf1d2eb.png" width="600px">
 
+DS18B20 resistor: 4.7K Ohm or 10K Ohm resistor
+
 ## Usage (machine learning)
 
 ```
