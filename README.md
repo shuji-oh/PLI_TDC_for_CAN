@@ -26,11 +26,11 @@ The code consists of three parts:
 
 ## Python Version
 
-3.8.6  
+3.8.6 or later  
 
 ## Quartus Version
 
-Quartus Prime (v17.0.0 Lite Edition)  
+Quartus Prime Lite Edition (v17.0.0 or later)  
 
 ## Required Hardware  
 
