@@ -7,9 +7,10 @@ PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-
 @inproceedings{ohira2020pli-tdc,
   title={PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter for In-Vehicle Networks},
   author={Ohira, Shuji and Kibrom Desta, Araya and Arai, Ismail and Fujikawa, Kazutoshi},
-  booktitle={Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security},
+  booktitle={Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIACCS)},
   pages={1--11},
   year={2021},
+  doi={10.1145/3433210.3437530},
   organization={ACM}
 }
 ```
