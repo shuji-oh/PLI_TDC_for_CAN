@@ -1,14 +1,14 @@
 PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter
 ====
 
-[Shuji Ohira, Araya Kibrom Desta, Ismail Arai, Kazutoshi Fujikawa, "PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter for In-Vehicle Networks," In Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security (ASIA CCS ’21), pp.1-11, June. 2021.]()
+[Shuji Ohira, Araya Kibrom Desta, Ismail Arai, Kazutoshi Fujikawa, "PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter for In-Vehicle Networks," In Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security (ASIA CCS ’21), pp.176–186, June. 2021.](https://doi.org/10.1145/3433210.3437530)
 
 ```
-@inproceedings{ohira2020pli-tdc,
+@inproceedings{ohira2021pli-tdc,
   title={PLI-TDC: Super Fine Delay-Time Based Physical-Layer Identification with Time-to-Digital Converter for In-Vehicle Networks},
   author={Ohira, Shuji and Kibrom Desta, Araya and Arai, Ismail and Fujikawa, Kazutoshi},
   booktitle={Proceedings of the ACM Asia Conference on Computer and Communications Security (ASIACCS)},
-  pages={1--11},
+  pages={176--186},
   year={2021},
   doi={10.1145/3433210.3437530},
   organization={ACM}
